@@ -10,6 +10,7 @@
 6. Set up the relationships in the models
 7. In the console make 5 orders 
     - set the orders up using their relationships   (belongs_to)
+8. Make a method that returns a string for each one of their orders that has a customers name,mood and order total. ex. "Sam was happy today their total was $20.00"
 
 IN CONSOLE:
  - return a customers orders 
